@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "img": "https://steadfast.com.bd/landing-page/asset/images/daily_pickup.svg",
+    "title": "Daily pickup, no limits",
+    "discription": "Steadfast Courier gives you the opportunity of unlimited pickup."
+  },
+  {
+    "id": 2,
+    "img": "https://steadfast.com.bd/landing-page/asset/images/cod.svg",
+    "title": "Cash on Delivery",
+    "discription": "At Steadfast Courier we will collect the cash on behalf of you.."
+  },
+  {
+    "id": 3,
+    "img": "https://steadfast.com.bd/landing-page/asset/images/payment.svg",
+    "title": "Faster Payment Service",
+    "discription": "We provides multiple payment methods such as cash, Bank or Mobile Banking"
+  },
+  {
+    "id": 4,
+    "img": "https://steadfast.com.bd/landing-page/asset/images/management.svg",
+    "title": "Online Management",
+    "discription": "You can get all the information you need in your own user dashboard."
+  },
+  {
+    "id": 5,
+    "img": "https://steadfast.com.bd/landing-page/asset/images/realtime_track.svg",
+    "title": "Real-Time Tracking",
+    "discription": "Steadfast Courier provides an unique tracking code for your every consignments."
+  },
+  {
+    "id": 6,
+    "img": "https://steadfast.com.bd/landing-page/asset/images/24_4_support.svg",
+    "title": "24/7 Customer Service",
+    "discription": "Our Call Center Executives are always ready 24/7 to help you with your problems."
+  }
+]
